@@ -1,4 +1,4 @@
-module ACS (
+module acs (
     input  [3:0] path_cost_0,   // metric hiện tại của nhánh 0
     input  [3:0] path_cost_1,   // metric hiện tại của nhánh 1
     input  [1:0] bmc_path_0,    // branch metric cho nhánh 0 
