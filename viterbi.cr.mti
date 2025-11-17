@@ -1,0 +1,85 @@
+C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_top.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_top.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module viterbi_decoder_top
+
+Top level modules:
+	viterbi_decoder_top
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/tb_mapping.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/tb_mapping.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module tb_mapping
+
+Top level modules:
+	tb_mapping
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_tb.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_tb.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module tb_top
+
+Top level modules:
+	tb_top
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMC.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMC.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module bmc
+
+Top level modules:
+	bmc
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TBPM.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TBPM.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module TBPM
+
+Top level modules:
+	TBPM
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/min_state_select.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/min_state_select.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module min_state_select
+
+Top level modules:
+	min_state_select
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMU.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMU.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module BMU
+
+Top level modules:
+	BMU
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/PMSM.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/PMSM.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module PMSM
+
+Top level modules:
+	PMSM
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TB.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TB.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACS.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACS.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module acs
+
+Top level modules:
+	acs
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/control_unit.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/control_unit.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACSU.v {1 {vlog -work work -vopt C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACSU.v
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ACSU
+
+Top level modules:
+	ACSU
+
+} {} {}}

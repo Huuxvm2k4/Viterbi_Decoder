@@ -1,0 +1,264 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/Admin/Downloads
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+Z1 Vd_<K`dS=GWz_QQ^EZzGR]3
+Z2 04 6 4 work tb_top fast 0
+Z3 =14-581122835313-691b1c69-2a4-5a10
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;10.2c;57
+Z7 dC:/Users/Admin/Downloads
+Z8 !s110 1763384425
+vacs
+Z9 !s110 1763385486
+Z10 !s100 AV5om1gPE^7Dmb^JIW6dn3
+Z11 Io=0e[6M]iFTm3c7KBU`O31
+Z12 V`JN@9S9cnhjKRR_L]QIcM3
+Z13 dC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder
+Z14 w1763132353
+Z15 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACS.v
+Z16 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACS.v
+L0 1
+Z17 OL;L;10.2c;57
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACS.v|
+Z19 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z20 !s108 1763385486.101000
+Z21 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACS.v|
+!i10b 1
+!s85 0
+!i111 0
+vACSU
+R9
+Z22 !s100 F@7FJ=2iPIBXbjAbSMLWX2
+Z23 IgITlZ8AB]850ahc1`o0<51
+R12
+R13
+Z24 w1762954090
+Z25 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACSU.v
+Z26 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACSU.v
+L0 1
+R17
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACSU.v|
+R19
+Z28 n@a@c@s@u
+Z29 !s108 1763385486.191000
+Z30 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/ACSU.v|
+!i10b 1
+!s85 0
+!i111 0
+vbmc
+R9
+Z31 !s100 XXD0bd?Ff04B1FPHT4aSL3
+Z32 I7Wgi1bfWz^o:<i1[B652P3
+R12
+R13
+Z33 w1762950186
+Z34 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMC.v
+Z35 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMC.v
+L0 1
+R17
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMC.v|
+R19
+Z37 !s108 1763385486.267000
+Z38 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMC.v|
+!i10b 1
+!s85 0
+!i111 0
+vBMU
+R9
+Z39 !s100 X=ZmXSE;6ldLDaFTgB0L_2
+Z40 IRSo^NVL:<nEfC8?nAZafF2
+R12
+R13
+Z41 w1762950082
+Z42 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMU.v
+Z43 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMU.v
+L0 1
+R17
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMU.v|
+R19
+Z45 n@b@m@u
+Z46 !s108 1763385486.352000
+Z47 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/BMU.v|
+!i10b 1
+!s85 0
+!i111 0
+vcontrol_unit
+R9
+Z48 !s100 CnkW:j_H4`SW6zdG_]5LZ0
+Z49 I8VRWXDnSZS^lz:5J>Mcm41
+R12
+R13
+Z50 w1763383043
+Z51 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/control_unit.v
+Z52 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/control_unit.v
+L0 1
+R17
+r1
+31
+Z53 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/control_unit.v|
+R19
+Z54 !s108 1763385486.432000
+Z55 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/control_unit.v|
+!i10b 1
+!s85 0
+!i111 0
+vmin_state_select
+R9
+Z56 !s100 cDIP^QXK862a0V4Caf_?A1
+Z57 ICSVBSP2]3mK?_OeHzXVh?3
+R12
+R13
+Z58 w1763360282
+Z59 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/min_state_select.v
+Z60 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/min_state_select.v
+L0 1
+R17
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/min_state_select.v|
+R19
+Z62 !s108 1763385486.512000
+Z63 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/min_state_select.v|
+!i10b 1
+!s85 0
+!i111 0
+vPMSM
+R9
+Z64 !s100 T@0TSJ^QhEVf8fehcen6_3
+Z65 IoThL:>fbKYUR`36kaVPD?3
+R12
+R13
+Z66 w1763358197
+Z67 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/PMSM.v
+Z68 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/PMSM.v
+L0 2
+R17
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/PMSM.v|
+R19
+Z70 n@p@m@s@m
+Z71 !s108 1763385486.599000
+Z72 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/PMSM.v|
+!i10b 1
+!s85 0
+!i111 0
+vTB
+R9
+Z73 !s100 gYTLb;cXUEd6:Abe>`UTd1
+Z74 I?[oRaFO6A<iKiDJWWf1762
+R12
+R13
+Z75 w1763372398
+Z76 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TB.v
+Z77 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TB.v
+L0 1
+R17
+r1
+31
+Z78 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TB.v|
+R19
+n@t@b
+Z79 !s108 1763385486.699000
+Z80 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TB.v|
+!i10b 1
+!s85 0
+!i111 0
+vtb_mapping
+R9
+Z81 I[@ZdI5LRmH?8N?6P0[@D42
+R12
+R13
+Z82 w1763384535
+Z83 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/tb_mapping.v
+Z84 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/tb_mapping.v
+L0 1
+R17
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/tb_mapping.v|
+R19
+Z86 !s100 7KhAM_Y_B`iVbPKP=VDm=2
+Z87 !s108 1763385486.784000
+Z88 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/tb_mapping.v|
+!i10b 1
+!s85 0
+!i111 0
+vtb_top
+R9
+!i10b 1
+!s100 C8cT_P8bn?H2=GiNzz_g31
+I4XKX1U9eKnkVI24z25k]80
+R12
+R13
+w1763384890
+Z89 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_tb.v
+Z90 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_tb.v
+L0 2
+R17
+r1
+!s85 0
+31
+!s108 1763385486.950000
+!s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_tb.v|
+Z91 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_tb.v|
+!i111 0
+R19
+vTBPM
+R9
+Z92 If;JM79]<fk8m9HjiFRIdJ0
+R12
+R13
+Z93 w1763384547
+Z94 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TBPM.v
+Z95 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TBPM.v
+L0 2
+R17
+r1
+31
+Z96 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TBPM.v|
+R19
+Z97 n@t@b@p@m
+!i10b 1
+Z98 !s100 SSoi`L2^:]b17DcEiR>zA0
+!s85 0
+Z99 !s108 1763385486.868000
+Z100 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/TBPM.v|
+!i111 0
+vviterbi_decoder_top
+Z101 IHl1VF0>5OJ2cl1Z7`B<zA1
+R12
+R13
+Z102 w1763384656
+Z103 8C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_top.v
+Z104 FC:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_top.v
+L0 1
+R17
+r1
+31
+Z105 !s90 -reportprogress|300|-work|work|-vopt|C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_top.v|
+R19
+R9
+Z106 !s100 Lf9cT29RZdKR?XOOkdimn3
+Z107 !s108 1763385486.011000
+Z108 !s107 C:/ET-HUST/VLSI/Viterbi/Viterbi_Decoder/viterbi_top.v|
+!i10b 1
+!s85 0
+!i111 0
